@@ -19,11 +19,14 @@ our goal is to forecast  insurance  charges . insurance Premium is  based  on di
 Also to identify features are important while doing the predictions 
 
 
+
 Project 2 Binary Classification
 One of the greatest challenges faced by service companies is to retain its customers. The cost involved in targeting new customers is a lot more than the effort to retain the existing ones. One of the greatest challenges faced by service companies is to retain its customers. Keeping this in mind, companies (that also includes banks) try to get some insights into the customer data
 
 Problem statement
 Our goal is to identify those customers who are likely to leave (churn). 
+
+
 
 Project 3 Time Series
 
@@ -31,6 +34,8 @@ Every business owner’s objective is to estimate the future trends – in terms
 
 Problem statement
 Build a forecast model to predict the Furniture sales of a certain store
+
+
 
 Project 4 Clustering
 
@@ -40,6 +45,12 @@ The reason for these clusters is to help identify those customers who would be i
 Problem statement
 To create Customer cluster to identify the different types of customers 
 
+
+Dojo.rar
+
+i have created a simple logic base CARD-DOJO game using python 🐍. 
+TO play please Extract the folder and open "Dojo.ipynb" file in jupyter notebook..
+and click resart and run all cell button to start THE GAME.🙂👍🏻
 
 
 
