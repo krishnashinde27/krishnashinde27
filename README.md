@@ -57,7 +57,7 @@ and click resart and run all cell button to start THE GAME.🙂👍🏻
 
 Stone papre Scissors.rar
 
- i have created a famous Stone paper Scissprs game using tkinter and pillow using python 🐍. 
+ i have created a famous Stone paper Scissors game using tkinter and pillow using python 🐍. 
   TO play please Extract the folder and open "Stone paper scissors.ipynb" file in jupyter notebook..
 and click resart and run all cell button to start THE GAME.🙂👍🏻
 
