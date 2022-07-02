@@ -28,6 +28,8 @@ Our goal is to identify those customers who are likely to leave (churn).
 
 
 
+
+
 Project 3 Time Series
 
 Every business owner’s objective is to estimate the future trends – in terms of sales, profits, gains etc. To do this analysis, the owner first has to segregate the data by category and analyze each entity separately. For each entity, a forecast can be estimated based on the past sales of that entity. The idea behind this is to find out the popularity of a certain product and how its sales can impact the business
@@ -53,8 +55,10 @@ TO play please Extract the folder and open "Dojo.ipynb" file in jupyter notebook
 and click resart and run all cell button to start THE GAME.🙂👍🏻
 
 
-
-
+Stone papre Scissors.rar
+ i have created a famous Stone paper Scissprs game using tkinter and pillow using python 🐍. 
+  TO play please Extract the folder and open "Stone paper scissors.ipynb" file in jupyter notebook..
+and click resart and run all cell button to start THE GAME.🙂👍🏻
 
 
 
