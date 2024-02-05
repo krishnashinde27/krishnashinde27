@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krishnashinde27
 - 👀 I’m interested in ...python,datascience,ML,,Deeplearning,AI
-- 🌱 I’m currently learning ...python,Data Science
-- 💞️ I’m looking to collaborate on ...python and data science projects
-- 📫 How to reach me ...krishnashinde27@gmail.com,8989697263
+- 🌱 I’m currently doing MS from italy in management enginnering  ...python,Data Science
+- 💞️ I’m looking to collaborate on ...python and data science projects and internships
+- 📫 How to reach me ...krishnashinde27@gmail.com,+393401922115 (whastapp)
 
 <!---
 krishnashinde27/krishnashinde27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
