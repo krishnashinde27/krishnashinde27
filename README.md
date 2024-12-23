@@ -1,69 +1,43 @@
-- 👋 Hi, I’m @krishnashinde27
-- 👀 I’m interested in ...python,datascience,ML,,Deeplearning,AI
-- 🌱 I’m currently doing MS from italy in management enginnering  ...python,Data Science
-- 💞️ I’m looking to collaborate on ...python and data science projects and internships
-- 📫 How to reach me ...krishnashinde27@gmail.com,+393401922115 (whastapp)
+👋 Hi, I’m Krishna Shinde (@krishnashinde27)
+🔍 Interests: Python, Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
+🌱 Currently Pursuing: Master’s in Management Engineering from Italy, specializing in Data Science and Python development
+🤝 Collaboration Opportunities: Open to collaborating on Python, Machine Learning, and Data Science projects or internships
+📫 Reach Me:
+	•	Email: krishnashinde27@gmail.com
+	•	WhatsApp: +39 3401922115
 
-<!---
-krishnashinde27/krishnashinde27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-i have worked on 4 different datasets and used diffrent machine learning algorithms 
+Projects
 
-Project 1. Linear Regression 
-Insurance premium is an amount of money a person  or business pays for an insurance policy that covers health, vehicle, home, life insurances etc. The insurer provides coverage for claims made against the policy.  Premiums are paid either quarterly, half-yearly or yearly depending upon the terms and conditions. 
-If we talk about health insurance, there are various factors on which the premium amount is dependent on. The premium amount might depending upon these factors like age ,type of disease ,Body Mass Index etc
+1. Linear Regression – Predicting Insurance Premiums
 
-Problem statement
-our goal is to forecast  insurance  charges . insurance Premium is  based  on different  variables.  as a  result, insurance fees are continuous values. the regression is the best choice available to  fulfill our needs.
-Also to identify features are important while doing the predictions 
+Objective: Develop a regression model to forecast insurance charges based on factors like age, BMI, and type of disease. The project identifies critical features influencing premium costs.
+Problem Statement: Insurance premiums are continuous variables dependent on multiple features. Using regression techniques, we aim to make accurate predictions and uncover key influencing factors.
 
+2. Binary Classification – Customer Churn Prediction
 
+Objective: Create a model to predict customer churn for service companies, helping businesses identify customers at risk of leaving.
+Problem Statement: Retaining existing customers is significantly more cost-effective than acquiring new ones. This project focuses on identifying customers likely to churn using machine learning classification techniques.
 
-Project 2 Binary Classification
-One of the greatest challenges faced by service companies is to retain its customers. The cost involved in targeting new customers is a lot more than the effort to retain the existing ones. One of the greatest challenges faced by service companies is to retain its customers. Keeping this in mind, companies (that also includes banks) try to get some insights into the customer data
+3. Time Series Forecasting – Furniture Sales Prediction
 
-Problem statement
-Our goal is to identify those customers who are likely to leave (churn). 
+Objective: Build a forecasting model to predict future furniture sales based on historical data, helping business owners estimate trends and plan effectively.
+Problem Statement: Understanding product popularity and its impact on business is critical. This time series model predicts sales trends, aiding decision-making.
 
+4. Clustering – Customer Segmentation
 
+Objective: Segment mall customers into clusters based on shopping patterns, spending behavior, and other factors. These clusters help tailor marketing strategies and offers to different customer groups.
+Problem Statement: Use clustering techniques to create actionable customer profiles that improve engagement and satisfaction.
 
+Games
 
+1. Card-Dojo Game
 
-Project 3 Time Series
+A simple, logic-based card game developed using Python.
+	•	How to Play: Extract the folder, open Dojo.ipynb in Jupyter Notebook, and click “Restart and Run All Cells” to start the game.
 
-Every business owner’s objective is to estimate the future trends – in terms of sales, profits, gains etc. To do this analysis, the owner first has to segregate the data by category and analyze each entity separately. For each entity, a forecast can be estimated based on the past sales of that entity. The idea behind this is to find out the popularity of a certain product and how its sales can impact the business
+2. Stone-Paper-Scissors Game
 
-Problem statement
-Build a forecast model to predict the Furniture sales of a certain store
+The classic game recreated using Python, Tkinter, and Pillow.
+	•	How to Play: Extract the folder, open Stone paper scissors.ipynb in Jupyter Notebook, and click “Restart and Run All Cells” to play.
 
-
-
-Project 4 Clustering
-
-Customers who come for shopping in a mall can be grouped in a number of ways. Shopping pattern, spending pattern, shopping score, salary etc are some of the factors that can be used to divide the customers into different categories.
-The reason for these clusters is to help identify those customers who would be interested in certain products, offers and services.
-
-Problem statement
-To create Customer cluster to identify the different types of customers 
-
-
-Dojo.rar
-
-i have created a simple logic base CARD-DOJO game using python 🐍. 
-TO play please Extract the folder and open "Dojo.ipynb" file in jupyter notebook..
-and click resart and run all cell button to start THE GAME.🙂👍🏻
-
-
-Stone papre Scissors.rar
-
- i have created a famous Stone paper Scissors game using tkinter and pillow using python 🐍. 
-  TO play please Extract the folder and open "Stone paper scissors.ipynb" file in jupyter notebook..
-and click resart and run all cell button to start THE GAME.🙂👍🏻
-
-
-
-
-
-
-
+I’m constantly exploring new tools and frameworks to solve challenging problems. Feel free to connect, collaborate, or reach out for exciting opportunities!
